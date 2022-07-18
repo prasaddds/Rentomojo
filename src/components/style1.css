@@ -1,0 +1,28 @@
+body
+{
+    background-color: rgb(198, 209, 202);
+}
+.card
+{
+    margin-top: 100px;
+    display: inline-block;
+    border-bottom: solid 2px rgb(214, 128, 128);
+    border-top: solid 2px red;
+    border-left: solid 2px red;
+    border-right: solid 2px red;
+    border-radius: 20px;
+    font-style: italic;
+    background-color:black;
+    width: 29rem;
+    height:20rem;
+}
+h1{
+    height:20px;
+    width:30rem;
+    color:blue;
+}
+p{
+    height:"20px";
+    width:"30rem";
+    color:white;
+}
