@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rentomojo/static/css/main.289f9548.css",
+    "main.js": "/Rentomojo/static/js/main.16a24f9d.js",
+    "index.html": "/Rentomojo/index.html",
+    "main.289f9548.css.map": "/Rentomojo/static/css/main.289f9548.css.map",
+    "main.16a24f9d.js.map": "/Rentomojo/static/js/main.16a24f9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.289f9548.css",
+    "static/js/main.16a24f9d.js"
+  ]
+}
