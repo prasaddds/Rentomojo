@@ -1,12 +1,12 @@
 body
 {
-    background-color: rgb(198, 209, 202);
+    background-color: rgb(13, 14, 14);
 }
 .card
 {
-    margin-top: 100px;
+    margin-top: 5%;
     display: inline-block;
-    border-bottom: solid 2px rgb(214, 128, 128);
+    border-bottom: solid 2px rgb(253, 35, 35);
     border-top: solid 2px red;
     border-left: solid 2px red;
     border-right: solid 2px red;
