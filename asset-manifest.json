@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Rentomojo/static/css/main.289f9548.css",
-    "main.js": "/Rentomojo/static/js/main.16a24f9d.js",
+    "main.css": "/Rentomojo/static/css/main.0831e5c6.css",
+    "main.js": "/Rentomojo/static/js/main.803037fb.js",
     "index.html": "/Rentomojo/index.html",
-    "main.289f9548.css.map": "/Rentomojo/static/css/main.289f9548.css.map",
-    "main.16a24f9d.js.map": "/Rentomojo/static/js/main.16a24f9d.js.map"
+    "main.0831e5c6.css.map": "/Rentomojo/static/css/main.0831e5c6.css.map",
+    "main.803037fb.js.map": "/Rentomojo/static/js/main.803037fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.289f9548.css",
-    "static/js/main.16a24f9d.js"
+    "static/css/main.0831e5c6.css",
+    "static/js/main.803037fb.js"
   ]
 }
